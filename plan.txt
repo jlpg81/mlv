@@ -1,0 +1,10 @@
+have a page to register/login, hide the other section
+one inside, enter a news section to see the latest info about the movement
+    allow regional leaders to post news later on
+
+the navbar will allow the person to move to a profile page where they can modify their info, and save
+
+a forum section which will work like a normal forum
+
+a voting section to allow people to vote and see results of past polls
+
