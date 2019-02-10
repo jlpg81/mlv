@@ -1,0 +1,23 @@
+#header-item {
+	cursor: pointer;
+}
+
+#header-logo {
+	width: 90%;
+}
+
+#page-title {
+	width: 100%
+}
+
+#page-title h2 {
+	margin: 0 0 0 26%
+}
+
+.mt-2 {
+	margin-top: 2em !important;
+}
+
+.center-text {
+	text-align: center;
+}
